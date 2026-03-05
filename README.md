@@ -4,7 +4,8 @@
 
 > A research project by Emine Güleş & Sümeyye Yıldız — Istanbul Atlas University, Software Engineering Department
 
----
+<img width="605" height="337" alt="Picture1" src="https://github.com/user-attachments/assets/a823ba4c-2bb4-4d45-8d7e-2ea94a0093cb" />
+
 
 ## Overview
 
